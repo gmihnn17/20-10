@@ -1,0 +1,748 @@
+window.GIRLS_DATA = {
+  "classEndingWish": {
+    "title": "Gửi 25 bông hoa của 11A2 🌷",
+    "lines": [
+      "20/10 chúc các bạn nữ luôn vui, luôn xinh, luôn hạnh phúc.",
+      "Quà nhiều thì nhận, lời chúc nhiều thì cười nha :))",
+      "Mong các bạn lúc nào cũng vui vẻ, vì lớp có các bạn mới thành 11A2.",
+      "Từ tập thể con trai hơi báo, hơi tào lao nhưng rất chân thành 💀",
+      "Chúc toàn thể các bạn nữ 11A2 một ngày 20/10 thật vui và hạnh phúc! ❤️"
+    ]
+  },
+  "girls": [
+    {
+      "id": "girl01",
+      "name": "Hoàng Thị Tú Anh",
+      "shortName": "Tú Anh",
+      "icon": "🌷",
+      "dob": "07/08/2010",
+      "searchAliases": [
+        "hoang thi tu anh",
+        "tu anh",
+        "tuanh"
+      ],
+      "dobAliases": [
+        "07/08",
+        "0708",
+        "7/8",
+        "07/08/2010",
+        "7/8/2010"
+      ],
+      "giftTitle": "Hoa Khôi Nụ Cười 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Tú Anh ơi, chúc cậu 20/10 vui vẻ nha.\nHôm nay nhất định phải là một ngày thật vui.\nChúc cậu nhận được thật nhiều lời chúc.\nQuà cũng đừng ít quá nhé :)).\nMong mọi người đều nhớ tới cậu trong ngày hôm nay.\nAi chúc thì cứ vui vẻ nhận nha.\nCó món quà nào thích thì giữ thật kỹ.\nMong hôm nay có thật nhiều chuyện khiến cậu vui.\nCười nhiều hơn một chút nhé.\nĐừng để chuyện gì làm mất mood hôm nay.\nHy vọng mọi thứ đều diễn ra đúng như cậu mong muốn.\nCó thêm vài bất ngờ nho nhỏ thì càng tốt.\nMong ngày 20/10 này đặc biệt hơn ngày thường.\nĐược quan tâm nhiều hơn một chút cũng được.\nĐược nhận thật nhiều yêu thương từ mọi người nhé.\nMong đến cuối ngày vẫn giữ nguyên tâm trạng vui vẻ.\nCó thật nhiều kỷ niệm đẹp trong hôm nay.\nChúc những lời chúc tốt đẹp nhất đều đến với cậu.\n20/10 chỉ có một ngày thôi nên nhớ vui thật nhiều.\nChúc Tú Anh có một ngày 20/10 thật hạnh phúc nha! 🥰🌸"
+    },
+    {
+      "id": "girl02",
+      "name": "Tạ Minh Anh",
+      "shortName": "Minh Anh",
+      "icon": "🎀",
+      "dob": "15/10/2010",
+      "searchAliases": [
+        "ta minh anh",
+        "minh anh",
+        "minhanh"
+      ],
+      "dobAliases": [
+        "15/10",
+        "1510",
+        "15/10/2010"
+      ],
+      "giftTitle": "Vì Sao Tỏa Sáng 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Minh Anh, chúc cậu 20/10 vui nhaaa.\nHôm nay cậu cứ vui thật thoải mái nhé.\nMong quà tới liên tục luôn :)).\nLời chúc cũng phải nhận thật nhiều.\nAi nhớ tới cậu thì chắc chắn đều phải vui rồi.\nHy vọng hôm nay gặp toàn chuyện khiến cậu cười.\nMong không có gì làm cậu mất vui.\nCó bất ngờ thì nhớ tận hưởng nha.\nCó quà mình thích thì càng tuyệt.\nMong hôm nay được quan tâm thật nhiều.\nCứ để bản thân vui một ngày đi.\nKhông cần nghĩ nhiều về những chuyện khác.\nChỉ cần hôm nay thật vui là được.\nMong mọi người xung quanh đều mang tới năng lượng tốt.\nCó nhiều khoảnh khắc đáng nhớ nữa nhé.\nCuối ngày nhìn lại vẫn thấy hôm nay thật vui.\nHy vọng năm nay 20/10 của cậu thật khác.\nNhững lời chúc tốt đẹp nhất đều dành cho cậu.\nChúc niềm vui hôm nay kéo dài thêm vài ngày nữa :)).\n20/10 vui vẻ và thật hạnh phúc nha Minh Anh! 💐✨"
+    },
+    {
+      "id": "girl03",
+      "name": "Mai Thanh Bình",
+      "shortName": "Thanh Bình",
+      "icon": "🐰",
+      "dob": "28/09/2010",
+      "searchAliases": [
+        "mai thanh binh",
+        "thanh binh",
+        "thanhbinh",
+        "binh"
+      ],
+      "dobAliases": [
+        "28/09",
+        "2809",
+        "28/9",
+        "28/09/2010",
+        "28/9/2010"
+      ],
+      "giftTitle": "Nốt Nhạc Dịu Dàng 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Thanh Bình, chúc cậu 20/10 thật vui nhé.\nHôm nay là ngày của các bạn nữ rồi.\nNên Bình cứ vui hết mình nha :)).\nChúc cậu nhận được nhiều lời chúc thật đáng yêu.\nQuà cũng phải có chứ.\nMong có món nào làm cậu bất ngờ.\nCó người nhớ tới mình trong ngày này là vui rồi.\nHy vọng hôm nay nụ cười xuất hiện thật nhiều.\nĐừng để mấy chuyện không vui ảnh hưởng tới hôm nay.\nMong mọi thứ đều thuận lợi.\nMột ngày bình thường nhưng có thêm thật nhiều niềm vui.\nCó nhiều thời gian ở bên những người cậu quý.\nCó vài khoảnh khắc vui mà nhớ mãi.\nMong cậu được mọi người quan tâm thật nhiều.\nAi gửi lời chúc cũng nhận nha :)).\nHôm nay cứ vui trước đã.\nMong buổi tối vẫn còn thật nhiều điều vui.\nCó một ngày thật nhẹ nhàng là được rồi.\nHy vọng 20/10 năm nay thật đáng nhớ.\nChúc Bình có một ngày 20/10 thật hạnh phúc! 🐰🌷"
+    },
+    {
+      "id": "girl04",
+      "name": "Zhu Tuyết Đình",
+      "shortName": "Tuyết Đình",
+      "icon": "🌸",
+      "dob": "05/01/2010",
+      "searchAliases": [
+        "zhu tuyet dinh",
+        "tuyet dinh",
+        "tuyetdinh",
+        "dinh"
+      ],
+      "dobAliases": [
+        "05/01",
+        "0501",
+        "5/1",
+        "05/01/2010",
+        "5/1/2010"
+      ],
+      "giftTitle": "Công Chúa Kiêu Sa 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Tuyết Đình, 20/10 vui vẻ nha.\nChúc cậu hôm nay thật nhiều niềm vui.\nMong những lời chúc tốt đẹp đều đến với cậu.\nQuà thì chắc chắn không được thiếu rồi :)).\nHy vọng hôm nay có thêm vài bất ngờ nho nhỏ.\nMong cậu được mọi người nhớ tới thật nhiều.\nAi chúc gì thì cứ vui vẻ nhận nha.\nChúc cho hôm nay không có chuyện gì khiến cậu buồn.\nMong những người bên cạnh đều làm cậu vui.\nCười thật nhiều nhé.\nCó chuyện vui thì cứ tận hưởng hết mình.\nMong hôm nay trôi qua thật nhẹ nhàng.\nMột ngày thật vui là đủ rồi.\nNhưng vui nhiều một chút cũng không sao :)).\nHy vọng tối nay nhìn lại sẽ thấy 20/10 thật đáng nhớ.\nMong cậu luôn giữ được tâm trạng thật tốt.\nCó những khoảnh khắc khiến cậu phải bật cười.\nNhững điều cậu mong chờ hôm nay đều xuất hiện.\nChúc cậu nhận được thật nhiều sự quan tâm.\nTuyết Đình có một ngày 20/10 thật hạnh phúc nha! 🌸💗"
+    },
+    {
+      "id": "girl05",
+      "name": "Lê Thị Minh Hằng",
+      "shortName": "Minh Hằng",
+      "icon": "💐",
+      "dob": "28/02/2010",
+      "searchAliases": [
+        "le thi minh hang",
+        "minh hang",
+        "minhhang",
+        "hang"
+      ],
+      "dobAliases": [
+        "28/02",
+        "2802",
+        "28/2",
+        "28/02/2010",
+        "28/2/2010"
+      ],
+      "giftTitle": "Vầng Trăng Dễ Thương 11A2",
+      "photos": [
+        "assets/photos/minh_hang.jpg",
+        "assets/photos/minh_hang.jpg",
+        "assets/photos/minh_hang.jpg",
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png"
+      ],
+      "wish": "Minh Hằng ơi, chúc Hằng 20/10 vui nha.\nHôm nay nhất định phải vui hơn mọi ngày.\nChúc cậu nhận được nhiều lời chúc nhất có thể.\nQuà cũng phải nhiều nữa :)).\nMong có món quà khiến cậu vui cả ngày.\nCó người chúc đầu tiên thì nhớ vui nha.\nCó người chúc cuối cùng cũng không được quên :)).\nMong mọi người đều dành cho cậu những điều tốt đẹp.\nHôm nay cứ thoải mái tận hưởng ngày của mình.\nCười nhiều lên một chút nhé.\nChuyện không vui thì để sang hôm khác tính.\n20/10 mà buồn là không được đâu.\nMong hôm nay có thật nhiều tiếng cười.\nCó thêm vài khoảnh khắc bất ngờ càng tốt.\nHy vọng cậu sẽ thấy mình được quan tâm thật nhiều.\nNgày này có thể trôi qua nhanh nhưng niềm vui thì giữ lâu nhé.\nMong tối nay vẫn còn chuyện vui để kể.\nChúc mọi thứ hôm nay đều đúng ý.\nCó một ngày thật vui là điều quan trọng nhất.\nChúc Minh Hằng 20/10 thật hạnh phúc nha! 🎀🥰"
+    },
+    {
+      "id": "girl06",
+      "name": "Thái Thị Hường",
+      "shortName": "Thái Hường",
+      "icon": "🌼",
+      "dob": "01/12/2010",
+      "searchAliases": [
+        "thai thi huong",
+        "thai huong",
+        "huong"
+      ],
+      "dobAliases": [
+        "01/12",
+        "0112",
+        "1/12",
+        "01/12/2010",
+        "1/12/2010"
+      ],
+      "giftTitle": "Đóa Hoa Ngát Hương 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Hường ơi, chúc cậu 20/10 vui vẻ nha.\nHôm nay nhớ vui nhiều lên đó :)).\nMong nhận được thật nhiều lời chúc.\nQuà thì có bao nhiêu nhận hết nhé.\nKhông cần ngại đâu nha.\nHy vọng có món quà đúng thứ cậu thích.\nMong hôm nay được mọi người quan tâm nhiều hơn.\nAi nhớ tới Hường thì cứ vui vẻ đón nhận.\nCả ngày phải có thật nhiều niềm vui.\nĐừng để chuyện linh tinh làm mất mood.\nCó gì vui thì cười thật nhiều.\nMong hôm nay gặp toàn chuyện dễ chịu.\nCó vài bất ngờ nho nhỏ thì càng hay.\nHy vọng 20/10 năm nay sẽ thật đáng nhớ.\nMong đến tối vẫn còn vui như lúc đầu.\nChúc cậu có thật nhiều khoảnh khắc vui vẻ.\nCó những lời chúc mà cậu thật sự thích.\nMong ngày này trôi qua thật đẹp.\nHôm nay cứ tận hưởng cho hết nhé.\nChúc Hường có một ngày 20/10 thật vui và hạnh phúc! 🌼💗"
+    },
+    {
+      "id": "girl07",
+      "name": "Bùi Nguyễn Anh Khánh",
+      "shortName": "Anh Khánh",
+      "icon": "👑",
+      "dob": "09/11/2010",
+      "searchAliases": [
+        "bui nguyen anh khanh",
+        "anh khanh",
+        "anhkhanh",
+        "khanh"
+      ],
+      "dobAliases": [
+        "09/11",
+        "0911",
+        "9/11",
+        "09/11/2010",
+        "9/11/2010"
+      ],
+      "giftTitle": "Chiến Thần Cá Tính 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Anh Khánh, chúc cậu 20/10 thật vui nha.\nHôm nay quà tới đâu nhận tới đó :)).\nLời chúc cũng không được bỏ sót nha.\nMong cậu được mọi người nhớ tới thật nhiều.\nCó quà bất ngờ thì càng tuyệt.\nCó người chuẩn bị riêng cho cậu thì càng vui.\nHy vọng hôm nay có thật nhiều tiếng cười.\nMong mọi thứ đều diễn ra suôn sẻ.\nKhông có chuyện gì phá mood nhé.\nCứ vui vẻ cả ngày nha.\nAi chúc cũng phải cảm ơn thật vui vẻ :)).\nMong hôm nay có nhiều điều đáng nhớ.\nCó thêm vài bất ngờ nữa thì hoàn hảo.\nChúc cậu được quan tâm thật nhiều.\nHy vọng ngày hôm nay khác với mọi ngày.\nMong niềm vui kéo dài tới tận tối.\nCó thể cười thật nhiều mà không cần lý do.\nChúc tất cả những lời chúc hôm nay đều thành sự thật.\n20/10 thì phải vui chứ.\nChúc Anh Khánh có một ngày thật hạnh phúc nha! 👑💐"
+    },
+    {
+      "id": "girl08",
+      "name": "Cao Thùy Linh",
+      "shortName": "Thùy Linh",
+      "icon": "🩷",
+      "dob": "22/01/2010",
+      "searchAliases": [
+        "cao thuy linh",
+        "thuy linh",
+        "thuylinh",
+        "linh"
+      ],
+      "dobAliases": [
+        "22/01",
+        "2201",
+        "22/1",
+        "22/01/2010",
+        "22/1/2010"
+      ],
+      "giftTitle": "Bé Ngoan Đáng Yêu 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Thùy Linh, 20/10 vui vẻ nhé.\nChúc cậu có một ngày thật nhiều niềm vui.\nMong hôm nay nhận được những lời chúc mình thích nhất.\nQuà cũng phải có nữa nha.\nNếu có bất ngờ thì càng vui :)).\nMong cậu được mọi người quan tâm thật nhiều.\nHôm nay cứ cười thật nhiều nhé.\nMong những chuyện vui xuất hiện liên tục.\nKhông có gì làm cậu buồn trong ngày hôm nay.\nMọi thứ đều nhẹ nhàng và thuận lợi.\nChúc hôm nay có thật nhiều khoảnh khắc đáng nhớ.\nCó người khiến cậu vui là được rồi.\nMong những người cậu yêu quý đều nhớ tới cậu.\nChúc cậu nhận được nhiều điều khiến mình vui.\nHy vọng ngày hôm nay trôi qua thật nhanh nhưng thật vui.\nTới tối vẫn còn nguyên mood nha :)).\nMong năm nay cậu có một 20/10 thật đặc biệt.\nChúc cậu luôn có những ngày vui như hôm nay.\nHôm nay cứ tận hưởng đi nhé.\nThùy Linh, 20/10 hạnh phúc thật nhiều nha! 🩷🌷"
+    },
+    {
+      "id": "girl09",
+      "name": "Lê Trần Phương Linh",
+      "shortName": "Phương Linh",
+      "icon": "🌿",
+      "dob": "07/03/2010",
+      "searchAliases": [
+        "le tran phuong linh",
+        "phuong linh",
+        "phuonglinh"
+      ],
+      "dobAliases": [
+        "07/03",
+        "0703",
+        "7/3",
+        "07/03/2010",
+        "7/3/2010"
+      ],
+      "giftTitle": "Giai Điệu Ngọt Ngào 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Phương Linh, chúc cậu 20/10 vui nha.\nKhông cần gì quá đặc biệt đâu.\nChỉ mong hôm nay thật vui là được.\nCó người chúc mình.\nCó người nhớ tới mình.\nCó quà để bất ngờ.\nCó thật nhiều tiếng cười.\nMong hôm nay gặp toàn chuyện tốt.\nKhông gặp chuyện làm mất vui.\nMọi người xung quanh đều vui vẻ với cậu.\nChúc cậu có một ngày thật thoải mái.\nCó vài điều bất ngờ nho nhỏ.\nCó những khoảnh khắc khiến cậu cười mãi.\nMong những lời chúc hôm nay đều thật lòng.\nHôm nay cứ tận hưởng ngày của mình nhé.\nĐừng ngại khi được quan tâm.\nMong đến cuối ngày vẫn thấy vui.\nHy vọng 20/10 năm nay sẽ thật đáng nhớ.\nMột ngày hạnh phúc là đủ rồi.\nChúc Phương Linh có một ngày 20/10 thật vui nha! 🌿💗"
+    },
+    {
+      "id": "girl10",
+      "name": "Nguyễn Trương Gia Mẫn",
+      "shortName": "Gia Mẫn",
+      "icon": "🔥",
+      "dob": "22/11/2010",
+      "searchAliases": [
+        "nguyen truong gia man",
+        "gia man",
+        "giaman",
+        "man"
+      ],
+      "dobAliases": [
+        "22/11",
+        "2211",
+        "22/11/2010"
+      ],
+      "giftTitle": "Ngôi Sao Bản Lĩnh 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Gia Mẫn, chúc cậu 20/10 vui vẻ nhé.\nHôm nay cứ thoải mái mà vui thôi :)).\nChúc quà nhiều tới mức không biết để đâu.\nLời chúc cũng phải đầy đủ luôn.\nMong có người làm cậu bất ngờ hôm nay.\nCó những lời chúc nghe xong phải cười.\nHy vọng cả ngày tâm trạng thật tốt.\nKhông có chuyện gì làm mất vui.\nMong hôm nay có thật nhiều điều thú vị.\nĐược mọi người quan tâm thật nhiều.\nCó thời gian vui vẻ với bạn bè.\nMong những điều cậu mong chờ đều xuất hiện.\nCó vài khoảnh khắc vui để nhớ lâu.\nHôm nay cứ vui trước, chuyện khác để sau :)).\nMong đến tối vẫn chưa hết niềm vui.\nChúc cậu có một ngày thật khác với bình thường.\n20/10 mà, phải vui thật nhiều chứ.\nHy vọng năm nay sẽ là một ngày thật đẹp.\nNhớ nhận hết lời chúc nha.\nChúc Mẫn có một ngày 20/10 thật hạnh phúc! 🔥🌸"
+    },
+    {
+      "id": "girl11",
+      "name": "Nguyễn Thị Trà My",
+      "shortName": "Trà My",
+      "icon": "🐣",
+      "dob": "22/06/2010",
+      "searchAliases": [
+        "nguyen thi tra my",
+        "tra my",
+        "tramy",
+        "my"
+      ],
+      "dobAliases": [
+        "22/06",
+        "2206",
+        "22/6",
+        "22/06/2010",
+        "22/6/2010"
+      ],
+      "giftTitle": "Bé Trà Sữa Cute 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Trà My ơi, chúc My 20/10 vui vẻ nhaaa.\nHôm nay cứ vui thật nhiều nhé.\nMong có thật nhiều người chúc cậu.\nQuà cũng phải có chứ :)).\nCó bất ngờ thì nhớ tận hưởng nha.\nMong hôm nay toàn là những chuyện vui.\nCười nhiều hơn một chút nhé.\nĐược mọi người quan tâm thật nhiều.\nCó món quà nào thích thì vui thật lâu.\nMong ngày hôm nay nhẹ nhàng và thoải mái.\nKhông để chuyện gì làm tụt mood.\nCó những lúc vui mà không cần lý do.\nMong cậu có nhiều khoảnh khắc đáng nhớ.\nAi chúc cũng nhận bằng một nụ cười nha.\nHy vọng hôm nay đặc biệt hơn ngày thường.\nMong niềm vui cứ kéo dài tới tối.\nCó thật nhiều điều dễ thương xuất hiện trong ngày.\nChúc những lời tốt đẹp nhất đều tới với cậu.\n20/10 chỉ có một lần trong năm thôi.\nNên chúc Trà My thật vui và thật hạnh phúc nha! 🐣🎀"
+    },
+    {
+      "id": "girl12",
+      "name": "Trương Đồng Kim Ngân",
+      "shortName": "Kim Ngân",
+      "icon": "✨",
+      "dob": "14/10/2010",
+      "searchAliases": [
+        "truong dong kim ngan",
+        "kim ngan",
+        "kimngan",
+        "ngan"
+      ],
+      "dobAliases": [
+        "14/10",
+        "1410",
+        "14/10/2010"
+      ],
+      "giftTitle": "Kho Báu Lấp Lánh 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Kim Ngân, chúc cậu 20/10 thật vui nhé.\nMong hôm nay nhận được thật nhiều lời chúc.\nQuà cũng không được thiếu nha :)).\nChúc cậu có một ngày hoàn toàn thoải mái.\nKhông có chuyện gì làm mất vui.\nCó thêm vài bất ngờ nhỏ thì quá ổn.\nMong những người thân thiết đều nhớ tới cậu.\nCó nhiều chuyện để cười trong ngày hôm nay.\nHy vọng mọi thứ đều đúng ý.\nĐược quan tâm nhiều hơn bình thường một chút.\nMong hôm nay có thật nhiều khoảnh khắc vui.\nCó những món quà khiến cậu bất ngờ.\nCó những lời chúc khiến cậu vui cả ngày.\nChúc cậu tận hưởng thật trọn vẹn ngày này.\nĐừng bỏ qua bất kỳ niềm vui nào nha.\nMong tới tối vẫn còn nhiều chuyện vui.\nHy vọng 20/10 năm nay thật đáng nhớ.\nMong mọi điều tốt đẹp đều đến đúng lúc.\nChỉ cần hôm nay hạnh phúc là được.\nChúc Kim Ngân có một ngày 20/10 thật vui nha! ✨🌷"
+    },
+    {
+      "id": "girl13",
+      "name": "Chu Thị Ánh Ngọc",
+      "shortName": "Ánh Ngọc",
+      "icon": "🌙",
+      "dob": "18/04/2010",
+      "searchAliases": [
+        "chu thi anh ngoc",
+        "anh ngoc",
+        "anhngoc"
+      ],
+      "dobAliases": [
+        "18/04",
+        "1804",
+        "18/4",
+        "18/04/2010",
+        "18/4/2010"
+      ],
+      "giftTitle": "Viên Ngọc Lung Linh 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Ánh Ngọc, 20/10 vui nha.\nHôm nay cứ chill thật thoải mái nhé :)).\nMong cậu nhận được nhiều lời chúc.\nQuà có thì càng vui.\nCó bất ngờ thì càng thích.\nMong hôm nay không có chuyện gì khó chịu.\nChúc cậu gặp toàn những điều vui vẻ.\nCó nhiều người nhớ tới và chúc cậu.\nMong cả ngày có thật nhiều tiếng cười.\nĐược quan tâm nhiều hơn một chút.\nCó những khoảnh khắc vui mà nhớ mãi.\nMong những điều mong chờ hôm nay đều thành hiện thực.\nHôm nay cứ tận hưởng ngày của mình nha.\nĐừng ngại khi được mọi người chúc.\nQuà thích thì giữ, lời chúc hay thì nhớ :)).\nHy vọng cuối ngày vẫn còn thấy thật vui.\nMong 20/10 năm nay thật nhẹ nhàng.\nMột ngày vui vẻ là quá đủ rồi.\nChúc cậu luôn giữ được tâm trạng thật tốt.\nÁnh Ngọc, chúc cậu có một ngày 20/10 thật hạnh phúc! 🌙💗"
+    },
+    {
+      "id": "girl14",
+      "name": "Lê Thị Bảo Ngọc",
+      "shortName": "Bảo Ngọc",
+      "icon": "🎀",
+      "dob": "04/02/2010",
+      "searchAliases": [
+        "le thi bao ngoc",
+        "bao ngoc",
+        "baongoc",
+        "bao ngoc le"
+      ],
+      "dobAliases": [
+        "04/02",
+        "0402",
+        "4/2",
+        "04/02/2010",
+        "4/2/2010"
+      ],
+      "giftTitle": "Bảo Bối Dịu Dàng 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Bảo Ngọc, chúc cậu 20/10 vui vẻ nha.\nHôm nay nhất định phải vui đó.\nMong nhận được thật nhiều quà.\nLời chúc cũng phải đầy đủ luôn.\nAi nhớ tới thì cứ vui vẻ nhận nha.\nHy vọng hôm nay có một bất ngờ thật vui.\nMong những người xung quanh đều làm cậu vui.\nCười thật nhiều nhé.\nĐừng để chuyện gì làm mất không khí 20/10.\nHôm nay cứ thoải mái tận hưởng thôi.\nMong mọi điều tốt đẹp đều tới với cậu.\nCó những khoảnh khắc thật vui cùng bạn bè.\nCó người khiến ngày hôm nay đặc biệt hơn.\nMong cậu được quan tâm thật nhiều.\nCó món quà mình thích thì càng tuyệt.\nHy vọng cả ngày đều vui vẻ.\nTối về vẫn còn nhớ hôm nay vui thế nào :)).\nChúc ngày này thật đáng nhớ.\nMong niềm vui ở lại lâu hơn một chút.\nChúc Bảo Ngọc 20/10 thật hạnh phúc nha! 🎀🌸"
+    },
+    {
+      "id": "girl15",
+      "name": "Nguyễn Châu Bảo Ngọc",
+      "shortName": "Châu Bảo Ngọc",
+      "icon": "🧸",
+      "dob": "17/09/2010",
+      "searchAliases": [
+        "nguyen chau bao ngoc",
+        "chau bao ngoc",
+        "chaubaongoc",
+        "bao ngoc chau"
+      ],
+      "dobAliases": [
+        "17/09",
+        "1709",
+        "17/9",
+        "17/09/2010",
+        "17/9/2010"
+      ],
+      "giftTitle": "Hoa Hậu Hoạt Bát 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Châu Bảo Ngọc, chúc cậu 20/10 vui nha.\nMong hôm nay thật nhiều điều vui tìm tới.\nCó người chúc.\nCó người nhớ.\nCó quà.\nCó những bất ngờ dễ thương.\nNhư vậy là đủ vui rồi :)).\nMong cậu được mọi người quan tâm thật nhiều.\nHôm nay cứ vui vẻ và thoải mái nha.\nCười nhiều một chút nhé.\nChuyện gì không vui thì tạm gác lại.\nMong những người bên cạnh đều mang tới tiếng cười.\nCó thêm vài khoảnh khắc đáng nhớ.\nHy vọng mọi thứ đều đúng như mong muốn.\nNhận được quà nhớ vui nha :)).\nĐừng ngại nhận lời chúc của mọi người.\nMong tới tối vẫn còn thật nhiều niềm vui.\n20/10 năm nay mong sẽ thật đặc biệt.\nChúc cậu có một ngày thật trọn vẹn.\nChúc Châu Bảo Ngọc một ngày 20/10 thật hạnh phúc! 🧸💐"
+    },
+    {
+      "id": "girl16",
+      "name": "Dương Ngọc Thảo Nhi",
+      "shortName": "Thảo Nhi",
+      "icon": "🌺",
+      "dob": "23/06/2010",
+      "searchAliases": [
+        "duong ngoc thao nhi",
+        "thao nhi",
+        "thaonhi",
+        "nhi"
+      ],
+      "dobAliases": [
+        "23/06",
+        "2306",
+        "23/6",
+        "23/06/2010",
+        "23/6/2010"
+      ],
+      "giftTitle": "Đóa Thảo Mộc Rạng Rỡ 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Thảo Nhi, chúc cậu 20/10 vui vẻ nha.\nMong hôm nay có thật nhiều niềm vui.\nQuà thì nhận thật nhiều nhé :)).\nLời chúc cũng phải nhận đủ luôn.\nChúc cậu có một ngày thật thoải mái.\nMong gặp toàn những chuyện khiến mình vui.\nCó người nhớ tới là đã vui rồi.\nCó thêm bất ngờ thì quá tuyệt.\nHôm nay cứ cười thật nhiều nha.\nKhông để chuyện linh tinh ảnh hưởng tới mood.\nMong những người thân thiết đều ở bên và chúc cậu.\nCó những khoảnh khắc thật đáng nhớ.\nHy vọng ngày hôm nay đặc biệt hơn một chút.\nMong mọi điều cậu mong đều xảy ra.\nĐược quan tâm thật nhiều nhé.\nĐừng ngại tận hưởng ngày của mình.\nCó vui thì cứ vui hết mình.\nTới tối vẫn còn nguyên niềm vui.\nChúc 20/10 năm nay thật đẹp.\nThảo Nhi, chúc cậu có một ngày thật hạnh phúc nha! 🌺🥰"
+    },
+    {
+      "id": "girl17",
+      "name": "Mã Ngọc Tuyết Nhi",
+      "shortName": "Tuyết Nhi",
+      "icon": "❄️",
+      "dob": "09/07/2010",
+      "searchAliases": [
+        "ma ngoc tuyet nhi",
+        "tuyet nhi",
+        "tuyetnhi"
+      ],
+      "dobAliases": [
+        "09/07",
+        "0907",
+        "9/7",
+        "09/07/2010",
+        "9/7/2010"
+      ],
+      "giftTitle": "Bông Tuyết Ngọt Ngào 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Tuyết Nhi, 20/10 vui nha.\nTên là Tuyết nhưng hôm nay phải thật vui đó :)).\nChúc cậu nhận được thật nhiều lời chúc.\nQuà cũng phải thật nhiều nhé.\nMong có món quà làm cậu bất ngờ.\nCó người nhớ tới và chúc cậu thật sớm.\nHy vọng hôm nay cười thật nhiều.\nMong cả ngày không có chuyện gì khiến cậu buồn.\nChúc mọi người xung quanh đều mang tới niềm vui.\nHôm nay cứ tận hưởng thật thoải mái nha.\nĐược quan tâm nhiều hơn một chút cũng tốt.\nCó thật nhiều khoảnh khắc vui.\nCó những chuyện nhỏ thôi nhưng vẫn khiến mình vui cả ngày.\nMong tối nay nhìn lại vẫn thấy hôm nay thật vui.\nHy vọng 20/10 năm nay sẽ đáng nhớ.\nMong những lời chúc hôm nay đều thành sự thật.\nCó thêm bất ngờ nào nữa thì càng hay.\nNhớ vui thật nhiều nha.\nHôm nay là ngày của cậu mà.\nChúc Tuyết Nhi một ngày 20/10 thật hạnh phúc! ❄️💗"
+    },
+    {
+      "id": "girl18",
+      "name": "Đặng Trần Ngọc Sương",
+      "shortName": "Ngọc Sương",
+      "icon": "🌙",
+      "dob": "11/01/2010",
+      "searchAliases": [
+        "dang tran ngoc suong",
+        "ngoc suong",
+        "ngocsuong",
+        "suong"
+      ],
+      "dobAliases": [
+        "11/01",
+        "1101",
+        "11/1",
+        "11/01/2010",
+        "11/1/2010"
+      ],
+      "giftTitle": "Giọt Sương Thanh Khiết 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Ngọc Sương, chúc cậu 20/10 vui vẻ nhé.\nMong hôm nay là một ngày thật dễ chịu.\nCó nhiều người nhớ tới cậu.\nCó nhiều lời chúc gửi tới.\nCó những món quà thật vui.\nMong mọi thứ hôm nay đều suôn sẻ.\nKhông gặp chuyện gì làm tụt mood.\nĐược mọi người quan tâm thật nhiều.\nCó nhiều thời gian vui vẻ với bạn bè.\nMong cả ngày có nhiều tiếng cười.\nChúc cậu gặp toàn chuyện tốt.\nCó thêm vài điều bất ngờ nho nhỏ.\nMong những người cậu quý đều nhớ tới cậu.\nHôm nay cứ vui vẻ hết mình nhé.\nĐừng ngại khi nhận được lời chúc.\nCó những kỷ niệm vui để nhớ về sau.\nHy vọng 20/10 năm nay sẽ thật đặc biệt.\nMong niềm vui kéo dài tới cuối ngày.\nChúc cậu có một ngày thật trọn vẹn.\nNgọc Sương, 20/10 thật hạnh phúc nha! 🌙🌷"
+    },
+    {
+      "id": "girl19",
+      "name": "Trần Thảo Tiên",
+      "shortName": "Thảo Tiên",
+      "icon": "🦋",
+      "dob": "23/01/2010",
+      "searchAliases": [
+        "tran thao tien",
+        "thao tien",
+        "thaotien",
+        "tien"
+      ],
+      "dobAliases": [
+        "23/01",
+        "2301",
+        "23/1",
+        "23/01/2010",
+        "23/1/2010"
+      ],
+      "giftTitle": "Nàng Tiên Tinh Nghịch 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Thảo Tiên, chúc cậu 20/10 thật vui nha.\nMong hôm nay có thật nhiều điều khiến cậu vui.\nĐược chúc thật nhiều.\nĐược tặng thật nhiều.\nCó bất ngờ thì càng thích :)).\nMong mọi người đều nhớ tới cậu.\nCó những lời chúc khiến cậu phải cười.\nHy vọng hôm nay không có chuyện gì làm mất vui.\nChúc cậu có một ngày thật thoải mái.\nTận hưởng hết những niềm vui của hôm nay nha.\nCó những khoảnh khắc thật đáng nhớ.\nMong những người thân thiết đều ở bên.\nĐược quan tâm thật nhiều nhé.\nCó một ngày khác hẳn mọi ngày bình thường.\nMong mọi chuyện đều diễn ra thật vui.\nCười thật nhiều vào nha.\nĐừng để một chuyện nhỏ làm mất cả ngày vui.\nHy vọng 20/10 năm nay thật đáng nhớ.\nChúc tất cả những điều tốt đẹp đều tới với cậu.\nThảo Tiên, chúc cậu một ngày 20/10 thật hạnh phúc! 🦋💐"
+    },
+    {
+      "id": "girl20",
+      "name": "Hồ Thị Minh Tình",
+      "shortName": "Minh Tình",
+      "icon": "😆",
+      "dob": "27/12/2010",
+      "searchAliases": [
+        "ho thi minh tinh",
+        "minh tinh",
+        "minhtinh",
+        "tinh"
+      ],
+      "dobAliases": [
+        "27/12",
+        "2712",
+        "27/12/2010"
+      ],
+      "giftTitle": "Cây Hài Chữa Lành 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Minh Tình, 20/10 vui vẻ nha :)).\nHôm nay nhất định phải vui đó.\nQuà có bao nhiêu nhận hết nhé.\nAi chúc cũng phải cảm ơn nha.\nKhông được bỏ sót lời chúc nào.\nMong hôm nay cười thật nhiều.\nCó người làm bất ngờ thì càng vui.\nCó quà đúng ý thì quá ngon :)).\nMong cả ngày không gặp chuyện gì khó chịu.\nAi làm cậu vui thì nhớ cảm ơn người ta nha.\nHôm nay cứ tận hưởng thôi.\nKhông cần nghĩ nhiều chuyện khác.\nMong mọi người đều đối xử thật vui vẻ với cậu.\nCó thật nhiều khoảnh khắc đáng nhớ.\nHy vọng đến tối vẫn còn nhiều chuyện để kể.\nChúc hôm nay có thật nhiều tiếng cười.\nMong mọi lời chúc đều mang lại niềm vui.\n20/10 mà buồn là không hợp lý đâu :)).\nNên nhớ vui thật nhiều nhé.\nChúc Minh Tình có một ngày thật vui và hạnh phúc! 😆🌸"
+    },
+    {
+      "id": "girl21",
+      "name": "Hồ Ngọc Thảo Trâm",
+      "shortName": "Thảo Trâm",
+      "icon": "🌷",
+      "dob": "19/01/2010",
+      "searchAliases": [
+        "ho ngoc thao tram",
+        "thao tram",
+        "thaotram",
+        "tram"
+      ],
+      "dobAliases": [
+        "19/01",
+        "1901",
+        "19/1",
+        "19/01/2010",
+        "19/1/2010"
+      ],
+      "giftTitle": "Nụ Cười Tỏa Nắng 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Thảo Trâm, chúc cậu 20/10 thật vui nha.\nMong hôm nay nhận được thật nhiều sự quan tâm.\nCó nhiều lời chúc thật dễ thương.\nQuà thì chắc chắn phải có rồi.\nHy vọng có một món quà khiến cậu bất ngờ.\nMong hôm nay có thật nhiều tiếng cười.\nMọi người xung quanh đều vui vẻ với cậu.\nĐừng để chuyện gì làm mất không khí hôm nay.\nChúc cậu có một ngày thật thoải mái.\nMong có thật nhiều khoảnh khắc đáng nhớ.\nCó người nhớ tới mình đã là điều vui rồi.\nNhưng được nhớ tới nhiều thì càng vui :)).\nHôm nay cứ tận hưởng ngày của mình nhé.\nMong những điều tốt đẹp đều đến với cậu.\nCó thêm những bất ngờ thật vui.\nHy vọng đến cuối ngày vẫn còn tâm trạng tốt.\nMong 20/10 năm nay thật khác với mọi năm.\nChúc mọi lời chúc đẹp đều trở thành sự thật.\nMột ngày thật vui nhé Trâm.\nChúc Trâm có một ngày 20/10 thật hạnh phúc! 🌷🎀"
+    },
+    {
+      "id": "girl22",
+      "name": "Võ Thị Kiều Trinh",
+      "shortName": "Kiều Trinh",
+      "icon": "🌸",
+      "dob": "25/05/2010",
+      "searchAliases": [
+        "vo thi kieu trinh",
+        "kieu trinh",
+        "kieutrinh",
+        "trinh"
+      ],
+      "dobAliases": [
+        "25/05",
+        "2505",
+        "25/5",
+        "25/05/2010",
+        "25/5/2010"
+      ],
+      "giftTitle": "Tiểu Thư Kiều Diễm 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Kiều Trinh, chúc cậu 20/10 vui vẻ nha.\nHôm nay mong cậu cười thật nhiều.\nNhận được thật nhiều lời chúc nhé.\nQuà cũng đừng để thiếu :)).\nMong có người làm cậu bất ngờ hôm nay.\nHy vọng mọi người đều nhớ tới cậu.\nCó những lời chúc khiến cậu thật sự vui.\nMong hôm nay toàn là những chuyện tốt.\nKhông có gì làm cậu buồn nha.\nCứ tận hưởng ngày này thật thoải mái.\nCó nhiều thời gian vui cùng bạn bè.\nMong có những khoảnh khắc thật đáng nhớ.\nChúc cậu được quan tâm nhiều hơn bình thường.\nCó món quà mình thích thì càng tuyệt.\nMong cuối ngày vẫn còn thật nhiều niềm vui.\nHy vọng năm nay 20/10 sẽ thật đặc biệt.\nMọi điều mong muốn đều được đáp lại.\nChúc cậu luôn có những ngày vui như hôm nay.\nHôm nay nhớ vui thật nhiều đó.\nKiều Trinh, chúc cậu có một ngày 20/10 thật hạnh phúc nha! 🌸💗"
+    },
+    {
+      "id": "girl23",
+      "name": "Trần Thị Trúc Vân",
+      "shortName": "Trúc Vân",
+      "icon": "☁️",
+      "dob": "17/10/2010",
+      "searchAliases": [
+        "tran thi truc van",
+        "truc van",
+        "trucvan",
+        "van"
+      ],
+      "dobAliases": [
+        "17/10",
+        "1710",
+        "17/10/2010"
+      ],
+      "giftTitle": "Áng Mây Tự Do 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Trúc Vân, chúc cậu 20/10 vui nha.\nMong hôm nay thật nhẹ nhàng và vui vẻ.\nCó nhiều người nhớ tới cậu.\nCó thật nhiều lời chúc gửi đến.\nCó quà nữa thì quá hoàn hảo :)).\nMong mọi thứ đều diễn ra đúng ý.\nHôm nay cười nhiều một chút nhé.\nCó những chuyện vui bất ngờ xuất hiện.\nĐừng để chuyện gì làm mất mood.\nMong được mọi người quan tâm thật nhiều.\nCó thời gian nói chuyện và vui vẻ với bạn bè.\nHy vọng hôm nay có một kỷ niệm thật vui.\nChúc những điều tốt đẹp nhất đến với cậu.\nMong ai chúc cũng làm cậu vui.\nCó món quà đặc biệt nào thì nhớ giữ lại nhé.\nTới tối vẫn phải vui nha.\nMong 20/10 này sẽ thật đáng nhớ.\nHôm nay cứ tận hưởng ngày của mình thôi.\nChúc cậu thật nhiều niềm vui.\nVà tất nhiên là một ngày 20/10 thật hạnh phúc nha! ☁️🌷"
+    },
+    {
+      "id": "girl24",
+      "name": "Đào Hà Vy",
+      "shortName": "Hà Vy",
+      "icon": "🍓",
+      "dob": "01/07/2010",
+      "searchAliases": [
+        "dao ha vy",
+        "ha vy",
+        "havy",
+        "vy"
+      ],
+      "dobAliases": [
+        "01/07",
+        "0107",
+        "1/7",
+        "01/07/2010",
+        "1/7/2010"
+      ],
+      "giftTitle": "Năng Lượng Dễ Thương 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Hà Vy, chúc cậu 20/10 thật vui nhé.\nHôm nay cứ vui hết mình nha :)).\nMong quà tới nhiều một chút.\nLời chúc cũng phải thật nhiều.\nCó người nhớ tới là vui rồi.\nCó người làm bất ngờ thì càng vui hơn.\nHy vọng hôm nay cười từ sáng tới tối.\nKhông gặp chuyện gì làm mất vui.\nMong mọi người xung quanh đều mang tới niềm vui.\nCó thật nhiều khoảnh khắc đáng nhớ.\nĐược quan tâm nhiều hơn bình thường một chút.\nCó món quà mình thích nhất thì càng tốt.\nMong hôm nay có thật nhiều tiếng cười.\nHôm nay cứ tận hưởng cho thoải mái nha.\nMong những lời chúc đều thật lòng.\nHy vọng mọi điều cậu mong chờ đều xảy ra.\nCuối ngày vẫn còn cảm thấy vui.\nChúc 20/10 năm nay đặc biệt hơn một chút.\nMong đây sẽ là một ngày thật đáng nhớ.\nChúc Hà Vy có một ngày 20/10 thật hạnh phúc! 🍓🎀"
+    },
+    {
+      "id": "girl25",
+      "name": "Chu Đỗ Hoàng Yến",
+      "shortName": "Hoàng Yến",
+      "icon": "👑",
+      "dob": "26/02/2010",
+      "searchAliases": [
+        "chu do hoang yen",
+        "hoang yen",
+        "hoangyen",
+        "yen"
+      ],
+      "dobAliases": [
+        "26/02",
+        "2602",
+        "26/2",
+        "26/02/2010",
+        "26/2/2010"
+      ],
+      "giftTitle": "Cánh Chim Rực Rỡ 11A2",
+      "photos": [
+        "assets/photos/demo_1.png",
+        "assets/photos/demo_2.png",
+        "assets/photos/demo_3.png",
+        "assets/photos/demo_4.png",
+        "assets/photos/demo_5.png",
+        "assets/photos/demo_6.png"
+      ],
+      "wish": "Hoàng Yến, chúc cậu 20/10 vui vẻ nha.\nMong hôm nay có thật nhiều niềm vui.\nNhận được thật nhiều lời chúc nhé.\nQuà cũng phải chất lượng một chút :)).\nHy vọng có một món quà khiến cậu bất ngờ.\nMong mọi người đều nhớ tới cậu trong hôm nay.\nCó những lời chúc thật dễ thương.\nMong cả ngày không có chuyện gì làm mất vui.\nCười thật nhiều nhé.\nHôm nay cứ thoải mái mà tận hưởng.\nChúc cậu được quan tâm thật nhiều.\nCó thêm vài khoảnh khắc thật vui.\nMong những người cậu quý đều gửi lời chúc tới cậu.\nHy vọng 20/10 năm nay thật khác biệt.\nCó những điều nhỏ thôi nhưng làm cậu vui cả ngày.\nMong mọi thứ hôm nay đều diễn ra thật đẹp.\nTới tối vẫn còn nguyên niềm vui nhé.\nChúc những lời chúc tốt đẹp nhất đều thành sự thật.\nHôm nay là ngày của cậu nên cứ vui thật nhiều nha.\nHoàng Yến, chúc cậu một ngày 20/10 thật hạnh phúc! 👑🌷"
+    }
+  ]
+};
